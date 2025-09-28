@@ -7,17 +7,16 @@ Milan H. Pansuriya
 This project builds on Number Base Conversion adding advanced data representation features used in computer architecture.  
 It introduces direct base conversions (octal, binary, hexadecimal) and several signed integer representations while reusing the test framework from Number Base Conversion file.
 
-## What the Program Does
-The program includes:
-- **Direct Mapping Conversions**
-  - `oct_to_bin` – octal to binary using 3-bit mapping
-  - `oct_to_hex` – octal to hexadecimal through binary
-  - `hex_to_bin` – hexadecimal to binary using 4-bit mapping
+## What’s New  
+- **Direct Mapping Functions**
+  - `oct_to_bin` – convert octal to binary (3-bit mapping)
+  - `oct_to_hex` – convert octal to hexadecimal through binary
+  - `hex_to_bin` – convert hexadecimal to binary (4-bit mapping)
 - **Signed Number Representations**
   - `to_sign_magnitude`
   - `to_ones_complement`
   - `to_twos_complement`
-- Automated testing that compares function output to expected results.
+- Updated the Assignment 1 test framework to handle new functions.
   
 ## How to Compile and Run
 1. Make sure **GCC** is installed on your system.  
