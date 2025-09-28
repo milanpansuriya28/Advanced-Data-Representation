@@ -1,11 +1,11 @@
-# CS 3503 Assignment 2 - Number Base Conversion
+# CS 3503 Assignment 2 – Data Representation and Mapping
 
 ## Author
 Milan H. Pansuriya
 
 ## Description
-This project builds on Assignment 1 by adding advanced data representation features used in computer architecture.  
-It introduces direct base conversions (octal, binary, hexadecimal) and several signed integer representations while reusing the test framework from Assignment 1.
+This project builds on Number Base Conversion adding advanced data representation features used in computer architecture.  
+It introduces direct base conversions (octal, binary, hexadecimal) and several signed integer representations while reusing the test framework from Number Base Conversion file.
 
 ## What the Program Does
 The program includes:
