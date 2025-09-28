@@ -37,6 +37,7 @@ The program includes:
 - Each function does one specific task
 - Variable names are descriptive
 - Error handling is included for file operations
+- The program maintains backward compatibility with Number Base Conversion file functions.
 
 ## References
 Some resources that helped while completing this assignment:
